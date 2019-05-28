@@ -1,0 +1,2 @@
+github "ReactiveX/RxSwift" ~> 5.0
+github "danielgindi/Charts" ~> 3.0
